@@ -63,6 +63,9 @@ https://github.com/jc-lw/youxuanyuming
 
 - 💡 免责声明： 本脚本由作者热爱 Linux 的灵魂驱动编写，虽尽力确保安全，但任何使用问题请自负风险！
 
+赞助声明
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持！
 
 
 
